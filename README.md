@@ -28,6 +28,18 @@
 
 ---
 
+
+## 💻 Tech Stack
+
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![React](https://skillicons.dev/icons?i=react)
+![Vue](https://skillicons.dev/icons?i=vue)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+
+
 ### 🏆 GitHub Stats
 ![Abdulaziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulazizBotirov2012&show_icons=true&theme=tokyonight)
 
