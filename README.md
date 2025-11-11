@@ -3,6 +3,7 @@
 
 
 # 👋 Hi there, I'm Abdulaziz!
+> Frontend Developer from Uzbekistan 🇺🇿
 
 🎯 I'm a **Front-End Developer** in training and future Senior Developer.  
 🚀 I love building modern web projects using **HTML, CSS, JavaScript, and React**.  
