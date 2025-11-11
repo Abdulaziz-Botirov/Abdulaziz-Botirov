@@ -1,4 +1,6 @@
 ## Hi there 👋
+![Hi there](https://link-to-your-gif.gif)
+
 
 # 👋 Hi there, I'm Abdulaziz!
 
