@@ -28,6 +28,11 @@
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdulaziz-Botirov&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulaziz-Botirov&layout=compact&theme=tokyonight)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Abdulaziz-Botirov&theme=darkhub)
+
+
 
 ## 💻 Tech Stack
 
