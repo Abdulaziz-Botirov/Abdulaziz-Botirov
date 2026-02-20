@@ -1,6 +1,7 @@
 
 ## Hi there 👋
 
+
  
 # 👋 Hi there, I'm Abdulaziz!
 
@@ -20,7 +21,6 @@
 - ⚛️ React,vue (beginner)
 - 🎨 Web Design
 - 🧩 Problem Solving
-- 
 
 ---
 
