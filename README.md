@@ -18,8 +18,9 @@
 ----
  
 ### 🛠️ My Skills
-- 💻 HTML, CSS, JavaScript
+- 💻 HTML, CSS, tailwent, JavaScript
 - ⚛️ React,vue (beginner)
+-  backend 
 - 🎨 Web Design
 - 🧩 Problem Solving
 
