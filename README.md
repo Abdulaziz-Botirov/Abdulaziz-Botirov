@@ -51,7 +51,7 @@
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 
 
-### 🏆 GitHub Stats
+### 🏆 GitHub Stat
 ![Abdulaziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdulaziz-Botirov&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulaziz-Botirov&layout=compact&theme=tokyonight)
