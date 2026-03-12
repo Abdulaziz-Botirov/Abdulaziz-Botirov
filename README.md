@@ -18,15 +18,21 @@
 🎮 Gamer & Creator — Danger Azi
 
 
+
 ----
  
 ### 🛠️ My Skills
-- 💻 HTML, CSS, tailwent, JavaScript
-- ⚛️ React
-- ⚛️ vue (beginner)
--  backend 
-- 🎨 Web Design
-- 🧩 Problem Solving
+💻 HTML | CSS | Tailwind CSS | JavaScript
+
+⚛️ React
+
+🟢 Vue (Beginner)
+
+⚙️ Node.js | Express
+
+🎨 UI / Web Design
+
+🧩 Problem Solving
 
 ---
 
