@@ -25,7 +25,7 @@
 
 ⚛️ React
 
-🟢 Vue (Beginner)
+⚛️ Vue (Beginner)
 
 ⚙️ Node.js | Express
 
