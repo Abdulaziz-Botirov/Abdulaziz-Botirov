@@ -11,6 +11,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Vue+%7C+React+%7C+JavaScript+%7C+HTML+%7C+CSS;Always+learning+new+things!"/>
 </p>
 
+----
 💻 Full-Stack Developer (Learning)
 ⚡ Tech stack: HTML, CSS, JavaScript, React, Node.js, Express
 🚀 Goal: Become a Senior Developer
