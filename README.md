@@ -41,7 +41,7 @@
   ### 🥋 Codewars Profile
 [![Codewars](https://www.codewars.com/users/abdulazizBotirov2012/badges/large)](https://www.codewars.com/users/abdulazizBotirov2012)
 
---
+---
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Abdulaziz-Botirov&theme=darkhub)
 
