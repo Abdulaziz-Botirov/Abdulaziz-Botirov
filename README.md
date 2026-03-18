@@ -64,8 +64,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulaziz-Botirov&layout=compact&theme=tokyonight)
 
----
-
-
-⭐ *"Code. Learn. Repeat."*
-
