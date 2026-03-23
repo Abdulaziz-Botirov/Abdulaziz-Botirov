@@ -1,5 +1,5 @@
 
-# 👋 Hi there, I'm Abdulaziz!
+# 👋 Hi there, I'm Abdulaziz
 
 
  <p align="start">
