@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Abdulaziz Botirov
 
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer+in+progress;Full-Stack+Developer+Learner;React+%7C+Vue+%7C+JavaScript+%7C+Node.js;Always+learning+new+things!" />
 </p>
