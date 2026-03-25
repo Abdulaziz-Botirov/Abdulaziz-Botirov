@@ -41,8 +41,8 @@
 
 ## 🌐 Connect With Me
 
-- 📱 Telegram: [@BotirovAbdulaziz1](https://t.me/BotirovAbdulaziz1)
-- 💼 GitHub: [abdulazizBotirov2012](https://github.com/abdulazizBotirov2012)
+- 📱 Telegram: [@BotirovAbdulaziz1](https://t.me/@bdulaziz_Botirov)
+- 💼 GitHub: [abdulazizBotirov2012](https://github.com/Abdulaziz-Botirov)
 - 🎮 YouTube: **Danger Azi**
 
 ---
