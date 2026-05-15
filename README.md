@@ -39,13 +39,14 @@
 - UI / Web Design
 - Problem Solving
 - Git & GitHub
+- graphic design
 
 ---
 
 ## 🌐 Connect With Me
 
-- 📱 Telegram: [@BotirovAbdulaziz1](https://t.me/@bdulaziz_Botirov)
-- 💼 GitHub: [abdulazizBotirov2012](https://github.com/Abdulaziz-Botirov)
+- 📱 Telegram: [@bdulaziz_Botirov](https://t.me/@bdulaziz_Botirov)
+- 💼 GitHub: [Abdulaziz-Botirov](https://github.com/Abdulaziz-Botirov)
 - 🎮 YouTube: **Danger Azi**
 
 ---
